@@ -1,0 +1,60 @@
+body{
+    max-width: 1500px;
+    font-family:Paytone One ;
+}
+.section1 .img2{
+    position: absolute;
+    margin-top: 120px;
+    margin-left: -715px;
+}
+.section1 .img1{
+    margin-top: 0px;
+}
+.section1 div{
+    max-width: 1500px;
+    height: 19px;
+    background-color: blue;
+    margin-top:-260px ;
+}
+.section1{
+    background-color: #DDD4CB;
+}
+
+
+.section2 p{
+    font-size: 75px;
+    color: black;
+    margin-left:390px ;
+    margin-top: 79px;
+}
+.section2 span{
+    color: #FF9C00;
+}
+.section2 img{
+    margin-top: -90px;
+    margin-left: 172px;
+}
+
+.section3 p{
+    font-size: 75px;
+    color: black;
+    text-align: center;
+    margin-top: 128px;
+}
+.section3 span{
+    color: #FF9C00;
+}
+.section3 img{
+    margin-top: -80px;
+    margin-left: 122px;
+}
+
+
+
+img{
+    margin-top: 159px;
+}
+.img4{
+    margin-top: 109px;
+    margin-left: 96px;
+}
